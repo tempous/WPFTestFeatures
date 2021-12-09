@@ -1,0 +1,6 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <FontFamily x:Key="Segoe MDL2 Assets">pack://application:,,,/Assets/#Segoe MDL2 Assets</FontFamily>
+    <FontFamily x:Key="MaterialDesignIconicFont">pack://application:,,,/Assets/#Material-Design-Iconic-Font</FontFamily>
+
+</ResourceDictionary>

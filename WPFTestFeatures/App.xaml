@@ -9,10 +9,11 @@
                 <ResourceDictionary Source="Assets/Colors.xaml" />
                 <ResourceDictionary Source="Assets/Fonts.xaml" />
                 <ResourceDictionary Source="Assets/Icons.xaml" />
-                
+
                 <ResourceDictionary Source="Styles/Default/Buttons.xaml" />
                 <ResourceDictionary Source="Styles/Default/TextBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/CheckBoxes.xaml" />
+                <ResourceDictionary Source="Styles/Default/RadioButtons.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

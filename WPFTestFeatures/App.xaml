@@ -17,6 +17,7 @@
                 <ResourceDictionary Source="Styles/Default/ComboBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/ComboBoxItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/ListBoxes.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListBoxItems.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

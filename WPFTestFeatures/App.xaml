@@ -21,6 +21,7 @@
                 <ResourceDictionary Source="Styles/Default/ListViews.xaml" />
                 <ResourceDictionary Source="Styles/Default/ListViewItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/TabControls.xaml" />
+                <ResourceDictionary Source="Styles/Default/TabControlItems.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

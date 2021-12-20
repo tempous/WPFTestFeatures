@@ -19,6 +19,7 @@
                 <ResourceDictionary Source="Styles/Default/ListBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/ListBoxItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/ListViews.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListViewItems.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

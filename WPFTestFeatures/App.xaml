@@ -15,6 +15,7 @@
                 <ResourceDictionary Source="Styles/Default/TextBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/CheckBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/RadioButtons.xaml" />
+                <ResourceDictionary Source="Styles/Default/Sliders.xaml" />
                 <ResourceDictionary Source="Styles/Default/ComboBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/ComboBoxItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/ListBoxes.xaml" />

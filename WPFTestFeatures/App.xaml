@@ -13,6 +13,7 @@
                 <ResourceDictionary Source="Styles/Default/Labels.xaml" />
                 <ResourceDictionary Source="Styles/Default/Buttons.xaml" />
                 <ResourceDictionary Source="Styles/Default/TextBoxes.xaml" />
+                <ResourceDictionary Source="Styles/Default/RichTextBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/CheckBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/RadioButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/Sliders.xaml" />

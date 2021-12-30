@@ -23,14 +23,15 @@
                 <ResourceDictionary Source="Styles/Default/Expanders.xaml" />
                 <ResourceDictionary Source="Styles/Default/ComboBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/ComboBoxItems.xaml" />
-                <ResourceDictionary Source="Styles/Default/ListBoxes.xaml" />
-                <ResourceDictionary Source="Styles/Default/ListBoxItems.xaml" />
-                <ResourceDictionary Source="Styles/Default/ListViews.xaml" />
-                <ResourceDictionary Source="Styles/Default/ListViewItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/TabControls.xaml" />
                 <ResourceDictionary Source="Styles/Default/TabControlItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/TreeViews.xaml" />
                 <ResourceDictionary Source="Styles/Default/TreeViewItems.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListBoxes.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListBoxItems.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListViews.xaml" />
+                <ResourceDictionary Source="Styles/Default/ListViewItems.xaml" />
+                <ResourceDictionary Source="Styles/Default/DataGrids.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

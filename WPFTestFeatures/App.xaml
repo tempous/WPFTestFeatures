@@ -36,6 +36,7 @@
                 <ResourceDictionary Source="Styles/Default/DataGridColumnHeaders.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridRowHeaders.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridRows.xaml" />
+                <ResourceDictionary Source="Styles/Default/DataGridIndicators.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

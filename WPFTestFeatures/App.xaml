@@ -33,6 +33,7 @@
                 <ResourceDictionary Source="Styles/Default/ListViewItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGrids.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridCells.xaml" />
+                <ResourceDictionary Source="Styles/Default/DataGridColumnHeaders.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

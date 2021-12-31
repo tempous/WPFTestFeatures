@@ -42,6 +42,7 @@
                 <ResourceDictionary Source="Styles/Default/CalendarButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarDayButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarItems.xaml" />
+                <ResourceDictionary Source="Styles/Default/DatePickers.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

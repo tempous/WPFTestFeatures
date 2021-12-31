@@ -37,6 +37,8 @@
                 <ResourceDictionary Source="Styles/Default/DataGridRowHeaders.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridRows.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridIndicators.xaml" />
+                
+                <ResourceDictionary Source="Styles/Default/Calendars.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

@@ -37,14 +37,15 @@
                 <ResourceDictionary Source="Styles/Default/DataGridRowHeaders.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridRows.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridIndicators.xaml" />
-                
+
+                <ResourceDictionary Source="Styles/Default/Frames.xaml" />
                 <ResourceDictionary Source="Styles/Default/GroupBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/Menus.xaml" />
                 <ResourceDictionary Source="Styles/Default/MenuItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/StatusBars.xaml" />
                 <ResourceDictionary Source="Styles/Default/StatusBarItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/Separators.xaml" />
-                
+
                 <ResourceDictionary Source="Styles/Default/Calendars.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarDayButtons.xaml" />

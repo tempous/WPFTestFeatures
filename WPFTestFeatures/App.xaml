@@ -45,6 +45,7 @@
                 <ResourceDictionary Source="Styles/Default/DatePickers.xaml" />
                 <ResourceDictionary Source="Styles/Default/ToolBars.xaml" />
                 <ResourceDictionary Source="Styles/Default/StatusBars.xaml" />
+                <ResourceDictionary Source="Styles/Default/StatusBarItems.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>

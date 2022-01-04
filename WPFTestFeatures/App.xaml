@@ -6,10 +6,14 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
 
+                <!--#region Наборы ресурсов-->
                 <ResourceDictionary Source="Assets/Colors.xaml" />
                 <ResourceDictionary Source="Assets/Fonts.xaml" />
                 <ResourceDictionary Source="Assets/Icons.xaml" />
+                <ResourceDictionary Source="Assets/Converters.xaml" />
+                <!--#endregion-->
 
+                <!--#region Стили часто используемых элементов управления-->
                 <ResourceDictionary Source="Styles/Default/Labels.xaml" />
                 <ResourceDictionary Source="Styles/Default/Buttons.xaml" />
                 <ResourceDictionary Source="Styles/Default/TextBoxes.xaml" />
@@ -37,7 +41,9 @@
                 <ResourceDictionary Source="Styles/Default/DataGridRowHeaders.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridRows.xaml" />
                 <ResourceDictionary Source="Styles/Default/DataGridIndicators.xaml" />
+                <!--#endregion-->
 
+                <!--#region Стили контейнеров и их элементов-->
                 <ResourceDictionary Source="Styles/Default/Frames.xaml" />
                 <ResourceDictionary Source="Styles/Default/GroupBoxes.xaml" />
                 <ResourceDictionary Source="Styles/Default/Menus.xaml" />
@@ -45,13 +51,16 @@
                 <ResourceDictionary Source="Styles/Default/StatusBars.xaml" />
                 <ResourceDictionary Source="Styles/Default/StatusBarItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/Separators.xaml" />
+                <!--#endregion-->
 
+                <!--#region Стили других элементов управления-->
                 <ResourceDictionary Source="Styles/Default/Calendars.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarDayButtons.xaml" />
                 <ResourceDictionary Source="Styles/Default/CalendarItems.xaml" />
                 <ResourceDictionary Source="Styles/Default/DatePickers.xaml" />
                 <ResourceDictionary Source="Styles/Default/ToolBars.xaml" />
+                <!--#endregion-->
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
